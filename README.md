@@ -45,11 +45,20 @@ I'm a B.Tech Computer Science student passionate about full-stack development an
 
 ---
 
+## 📊 GitHub Stats
+
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepaksinghh12&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=deepaksinghh12&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
 ## 📫 Contact Me
-- Email: deepaksingh91065@gmail.com
-- LinkedIn: [linkedin.com/in/deepaksingh1212](https://www.linkedin.com/in/deepaksingh1212/)
+- Email: deepaksingh91065@gmail.com  
+- LinkedIn: [linkedin.com/in/deepaksingh1212](https://www.linkedin.com/in/deepaksingh1212/)  
 - GitHub: [github.com/deepaksinghh12](https://github.com/deepaksinghh12)
 
 ---
 
 _“Code is not just a tool — it’s a superpower.”_
+
