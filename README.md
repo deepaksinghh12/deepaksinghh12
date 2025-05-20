@@ -49,7 +49,7 @@ I'm a B.Tech Computer Science student passionate about full-stack development an
 
 ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepaksinghh12&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=deepaksinghh12&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=deepaksinghh12)](https://git.io/streak-stats)
 
 ---
 
