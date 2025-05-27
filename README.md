@@ -1,4 +1,4 @@
-# Hi there, I'm @deepaksinghh12 👋
+# Hi there, I'm Deepak Singh 👋
 
 I'm a B.Tech Computer Science student passionate about full-stack development, mobile apps, and data science. I love building tech that solves real-world problems and continuously exploring new technologies and tools.
 
