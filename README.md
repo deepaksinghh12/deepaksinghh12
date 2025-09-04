@@ -1,7 +1,6 @@
 # Hi there, I'm Deepak Singh 👋
 
-I’m a Computer Science undergraduate passionate about full-stack web and mobile development, open-source, and problem-solving. Skilled in MERN, Spring Boot, Flutter, and cloud tools with growing expertise in Generative AI and AWS. I have built impactful projects such as AI-powered civic apps and algorithm visualizers, contributed to open source (GSSoC), and actively sharpen my DSA skills on LeetCode.
----
+Full-Stack & Flutter Developer | GenAI Enthusiast | Open-Source Contributor (GSSoC) | DSA @ LeetCode
 
 ## 🚀 Currently Working On
 - 🌍 **City Guardian App** — AI-powered pothole detection app (Flutter + Python + Firebase)
