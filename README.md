@@ -2,26 +2,13 @@
 
 Full-Stack & Flutter Developer | GenAI Enthusiast | Open-Source Contributor (GSSoC) | DSA @ LeetCode
 
-## 🚀 Currently Working On
-- 🌍 **City Guardian App** — AI-powered pothole detection app (Flutter + Python + Firebase)
-- 🚍 Raahi App – Smart Multimodal Public Transport Tracker for India(currently in mumbai only)
-- 📊 **Data Insights Dashboard** — Visual analytics with Python, Pandas, and Power BI
-
 ---
 
-## 💡 Currently Learning
-- Advanced Java & DSA  
-- Cloud Deployment for mobile/web apps  
-- AI/ML model integration in real-time apps  
-- Data visualization and analysis with **Power BI** and **Pandas**
-
----
-
-## 🤝 Looking to Collaborate On
-- Full Stack or Flutter-based projects  
-- AI-powered real-world applications  
-- Data Science and Analytics Projects  
-- Open Source contributions and internships
+## 🚀 Projects
+- 🌍 **City Guardian App** — AI-powered pothole detection app (Flutter + Python + Firebase)  
+- 🚍 **Raahi App** — Smart multimodal public transport tracker (Mumbai pilot)  
+- 📊 **AlgoQuest** — Algorithm visualizer & coding practice platform (MERN stack)  
+- 📈 **Data Insights Dashboard** — Visual analytics with Python, Pandas, and Power BI  
 
 ---
 
@@ -29,14 +16,15 @@ Full-Stack & Flutter Developer | GenAI Enthusiast | Open-Source Contributor (GSS
 - **Languages**: Java, JavaScript, Python, Dart, SQL  
 - **Frameworks**: React, Node.js, Express, Flutter, Spring Boot  
 - **Databases**: Firebase, MongoDB, MySQL  
-- **Data Science Tools**: Pandas, NumPy, Matplotlib, Power BI  
-- **Tools**: Git, Figma, Postman, Jupyter Notebook
+- **Data Tools**: Pandas, NumPy, Matplotlib, Power BI  
+- **Tools**: Git, Postman, Figma, Jupyter Notebook  
 
 ---
 
 ## 📜 Certifications
-- Advanced Java Programming – Skill Oceans (June 2024)  
-- Full Stack Web Development – Upflairs (May 2025)
+- Advanced SQL – HackerRank (Mar 2024)  
+- Advanced Java Programming – Skill Oceans (Jun 2024)  
+- Full Stack Web Development – Upflairs (May 2025)  
 
 ---
 
@@ -44,12 +32,11 @@ Full-Stack & Flutter Developer | GenAI Enthusiast | Open-Source Contributor (GSS
 - Build 3+ production-level apps  
 - Land a summer internship  
 - Contribute to open source consistently  
-- Complete real-world data science projects and publish insights
+- Complete real-world data science projects and publish insights  
 
 ---
 
 ## 📊 GitHub Stats
-
 ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepaksinghh12&show_icons=true&theme=tokyonight)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=deepaksinghh12&theme=radical)](https://git.io/streak-stats)
 
