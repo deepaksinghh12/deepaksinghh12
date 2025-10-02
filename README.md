@@ -5,6 +5,9 @@ Full-Stack & Flutter Developer | B.Tech CSE Student '26 | Open-Source Contributo
 A passionate developer with a knack for building robust and scalable applications. I enjoy solving complex problems and continuously learning new technologies.
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dracula" alt="WakaTime Stats" />
+
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git" />
 
 ## 💼 Work Experience
 
