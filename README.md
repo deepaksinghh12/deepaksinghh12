@@ -25,7 +25,7 @@ A passionate developer with a knack for building robust and scalable application
 ## 🐍 My GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepaksinghh12/deepaksinghh12/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/deepaksinghh12/deepaksinghh12/main/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
