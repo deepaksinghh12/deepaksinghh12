@@ -64,11 +64,11 @@ A passionate developer with a knack for building robust and scalable application
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepaksinghh1212&show_icons=true&theme=radical&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksinghh1212&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepaksinghh12&show_icons=true&theme=radical&count_private=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksinghh12&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksinghh1212&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksinghh12&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
