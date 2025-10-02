@@ -5,9 +5,53 @@ Full-Stack & Flutter Developer | B.Tech CSE Student '26 | Open-Source Contributo
 A passionate developer with a knack for building robust and scalable applications. I enjoy solving complex problems and continuously learning new technologies.
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dracula" alt="WakaTime Stats" />
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git" />
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepaksinghh12&show_icons=true&theme=radical&count_private=true" alt="Deepak Singh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksinghh12&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksinghh12&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepaksinghh12&theme=radical&no-scroll=true&column=-1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🐍 My GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deepaksinghh12/deepaksinghh12/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## ⏰ My WakaTime Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deepaksinghh12&theme=dracula" alt="WakaTime Stats" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nextjs,tailwind,nodejs,express,spring,flutter,mysql,postgresql,mongodb,firebase,git,github,postman,figma,vercel,vscode,linux" alt="Tech Stack Icons" />
+</p>
+
+- **Languages**: Java, Python, JavaScript, SQL
+- **Frontend**: React.js, Next.js, HTML/CSS, Tailwind CSS, JavaScript
+- **Backend**: Spring Boot, Node.js, Express.js, REST APIs
+- **Mobile**: Flutter
+- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase
+- **Tools & Cloud**: Git, GitHub, Postman, Figma, Vercel, IntelliJ, VS Code, Linux
+- **Fundamentals**: Data Structures & Algorithms, DBMS, Operating Systems
+
+---
 
 ## 💼 Work Experience
 
@@ -36,18 +80,6 @@ A passionate developer with a knack for building robust and scalable application
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Languages**: Java, Python, JavaScript, SQL
-- **Frontend**: React.js, Next.js, HTML/CSS, Tailwind CSS, JavaScript
-- **Backend**: Spring Boot, Node.js, Express.js, REST APIs
-- **Mobile**: Flutter
-- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase
-- **Tools & Cloud**: Git, GitHub, Postman, Figma, Vercel, IntelliJ
-- **Fundamentals**: Data Structures & Algorithms, DBMS, Operating Systems
-
----
-
 ## 🎓 Education
 
 - **Modern Institute of Technology and Research Centre (MITRC), Alwar** (2022-2026)
@@ -62,17 +94,6 @@ A passionate developer with a knack for building robust and scalable application
 - **Full Stack Web Development** – Upflairs (May 2025)
 - **Advanced Java Programming** – Skill Oceans (Jun 2024)
 - **Advanced SQL** – HackerRank (Mar 2024)
-
----
-
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepaksinghh12&show_icons=true&theme=radical&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksinghh12&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksinghh12&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
