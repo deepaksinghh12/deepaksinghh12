@@ -92,7 +92,7 @@
       <a href="https://github.com/deepaksinghh12/AgriMitra" target="_blank">
         <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="https://your-live-demo-link.com" target="_blank">
+      <a href="https://agrimitra-kisan.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-0077B5?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
