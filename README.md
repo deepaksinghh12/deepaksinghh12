@@ -125,13 +125,34 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepaksinghh12&theme=radical&column=7" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=deepaksinghh12&theme=radical&margin-w=15&no-frame=true" 
+    alt="GitHub Trophies"
+  />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepaksinghh12&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksinghh12&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksinghh12&layout=compact&theme=radical" />
+  <img 
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=deepaksinghh12&show_icons=true&theme=radical&cache_seconds=1800" 
+    alt="GitHub Stats"
+  />
+  <img 
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksinghh12&layout=compact&theme=radical&cache_seconds=1800" 
+    alt="Top Languages"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=deepaksinghh12&theme=radical" 
+    alt="GitHub Streak"
+  />
 </div>
 
 ---
@@ -139,7 +160,10 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/deepaksinghh12/deepaksinghh12/main/dist/github-contribution-grid-snake.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/deepaksinghh12/deepaksinghh12/main/dist/github-contribution-grid-snake.svg" 
+    alt="Contribution Snake"
+  />
 </div>
 
 ---
