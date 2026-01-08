@@ -6,9 +6,6 @@
     Passionate about clean architecture, problem-solving, and open-source.
   </p>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d6bWk1cmQzMGZ2c2R6Zm5kb3E4ZW9wOHkweGZqd2t2eDY0eXp2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</div>
-
 ---
 
 ## 🚀 About Me
