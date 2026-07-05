@@ -95,7 +95,7 @@
 
 ## 💼 Experience
 
-### Mentor | Full Stack Contributor — Smart India Hackathon (SIH) 2025
+Full Stack Contributor — Smart India Hackathon (SIH) 2025
 - Mentored team members on system design and implementation strategy
 - Contributed hands-on to Flutter modules and backend REST APIs
 - Supported debugging, feature refinement, and final presentation
