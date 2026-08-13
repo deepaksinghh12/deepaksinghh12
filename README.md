@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science student at **MITRC, Alwar** (Class of 2026, **CGPA: 9.01**)
+- 🎓 B.Tech Computer Science student at **MITRC, Alwar** (Class of 2026, **CGPA: 9.03**)
 - 🏆 **Smart India Hackathon (SIH) 2025 National Winner**
 - 🧑‍🏫 Mentored and technically contributed to a national-winning SIH solution
 - 💻 Strong focus on **Java, MERN stack, Flutter, and backend systems**
