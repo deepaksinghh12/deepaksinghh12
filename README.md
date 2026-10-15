@@ -13,9 +13,7 @@
 ### Tech stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,dart,react,nextjs,nodejs,express,spring,mongodb,mysql,firebase,flutter,git,github,docker&perline=9" alt="Technologies: Java, JavaScript, TypeScript, Python, Dart, React, Next.js, Node.js, Express, Spring, MongoDB, MySQL, Firebase, Flutter, Git, GitHub, Docker" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,dart,react,nextjs,nodejs,express,spring,mongodb,mysql,firebase,flutter,git,github,docker&perline=17&size=32" alt="Tech stack: Java, JavaScript, TypeScript, Python, Dart, React, Next.js, Node.js, Express, Spring, MongoDB, MySQL, Firebase, Flutter, Git, GitHub, Docker" />
 </p>
 
 ### A little about me
